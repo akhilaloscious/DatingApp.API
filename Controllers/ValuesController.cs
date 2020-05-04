@@ -51,6 +51,7 @@ namespace DatingApp.API.Controllers
         [HttpDelete("{id}")]
         public void Delete(int id)
         {
+            //used to delete some data from the application
         }
     }
 }
